@@ -1,0 +1,9 @@
+.home-style{
+    background-image: url('https://ak.picdn.net/shutterstock/videos/12981236/thumb/1.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    min-height: 100vh;
+    padding-top:100px;
+    /* justify-content: space-between; */
+}
